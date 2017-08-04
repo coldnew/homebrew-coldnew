@@ -1,4 +1,4 @@
-class WebkitgtkAT2411 < Formula
+class Webkitgtk < Formula
   desc "webkitgtk for astroid"
   homepage "https://webkitgtk.org/"
   url "https://webkitgtk.org/releases/webkitgtk-2.4.11.tar.xz"
